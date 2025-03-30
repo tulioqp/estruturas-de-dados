@@ -1,4 +1,4 @@
-# O truque  
+# O truque  $\sqrt{n}$
 
 Em vários problemas que envolvem vetores, é possível fazer uma otimização do tempo de execução simples de implementar, usando alguma memória extra.  
 
